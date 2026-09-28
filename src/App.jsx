@@ -157,7 +157,7 @@ function App() {
 
         <section className="contact section-wrap" id="contact">
           <div className="section-kicker">05 / CONTACT</div>
-          <div className="contact-panel"><div><p className="eyebrow">HAVE A PROJECT OR OPPORTUNITY?</p><h2>Let's start a <span>conversation.</span></h2><p className="contact-copy">I'm open to connecting, learning, and exploring opportunities in software development and cybersecurity.</p></div><div className="contact-links"><a href="mailto:">Email me <ArrowUpRight size={16} /></a><a href="https://www.linkedin.com/in/philopatir-george-929a59280/" target="_blank" rel="noreferrer">LinkedIn <ArrowUpRight size={16} /></a><a href="https://github.com/Sanguine-Prime" target="_blank" rel="noreferrer">GitHub <ArrowUpRight size={16} /></a></div></div>
+          <div className="contact-panel"><div><p className="eyebrow">HAVE A PROJECT OR OPPORTUNITY?</p><h2>Let's start a <span>conversation.</span></h2><p className="contact-copy">I'm open to connecting, learning, and exploring opportunities in software development and cybersecurity.</p></div><div className="contact-links"><a href="mailto:philopatirwahba@gmail.com">Email me <ArrowUpRight size={16} /></a><a href="https://www.linkedin.com/in/philopatir-george-929a59280/" target="_blank" rel="noreferrer">LinkedIn <ArrowUpRight size={16} /></a><a href="https://github.com/Sanguine-Prime" target="_blank" rel="noreferrer">GitHub <ArrowUpRight size={16} /></a></div></div>
         </section>
       </main>
       <footer><a className="brand footer-brand" href="#home"><span className="brand-mark">PG</span><span>PHILO<span className="brand-dot">.</span></span></a><span>Designed &amp; built by Philopatir George Ibrahim</span><a href="#home">BACK TO TOP ↑</a></footer>
